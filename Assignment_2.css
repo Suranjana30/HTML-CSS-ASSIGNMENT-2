@@ -1,0 +1,14 @@
+h1{
+    color: crimson;
+}
+td{
+    color:orangered;
+    font-family: monospace;
+}
+th{
+    color:palevioletred;
+    font-family:sans-serif;
+}
+body{
+    background-color:snow;
+}
